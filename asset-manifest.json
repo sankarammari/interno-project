@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interno-project/static/css/main.ce07c90f.css",
-    "main.js": "/interno-project/static/js/main.c93014b3.js",
+    "main.js": "/interno-project/static/js/main.6c7ec423.js",
     "static/js/787.0759313b.chunk.js": "/interno-project/static/js/787.0759313b.chunk.js",
     "static/media/homeBg.jpg": "/interno-project/static/media/homeBg.c5c10cbdfbaa28002f7c.jpg",
     "static/media/404Bg.jpg": "/interno-project/static/media/404Bg.5aae85410e5fae3120a6.jpg",
@@ -70,11 +70,11 @@
     "static/media/Icon4.svg": "/interno-project/static/media/Icon4.0780fc9b224002f40edf57c654d5c236.svg",
     "index.html": "/interno-project/index.html",
     "main.ce07c90f.css.map": "/interno-project/static/css/main.ce07c90f.css.map",
-    "main.c93014b3.js.map": "/interno-project/static/js/main.c93014b3.js.map",
+    "main.6c7ec423.js.map": "/interno-project/static/js/main.6c7ec423.js.map",
     "787.0759313b.chunk.js.map": "/interno-project/static/js/787.0759313b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce07c90f.css",
-    "static/js/main.c93014b3.js"
+    "static/js/main.6c7ec423.js"
   ]
 }
